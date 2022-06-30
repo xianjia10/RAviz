@@ -3,5 +3,5 @@ RAviz is a visualization tool, which can be used for showing genomic alignments 
 
 ####
 
-the RAviz can be downloaded from the website, as followed:
+To run RAviz ,you can be downloaded from the website, as followed:
 https://github.com/xianjia10/RAviz/releases
