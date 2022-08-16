@@ -4,7 +4,7 @@ Note:
 if you want to showing rare k-mers, you need to run the pre-processing program (can be downloaded from https://github.com/xianjia10/kmer-map.git) of RAviz to generate the input file of RAviz. Moreover, the testing data is a big file, which was hard to upload into the github webisite. Therefore, if users want to test the funtions of RAviz using testing data, please decompress the data before using it.
 
 ## Install:
-The compiled binaries are in [Rreleases](https://github.com/xianjia10/RAviz/releases)
+The compiled binaries are in [Releases](https://github.com/xianjia10/RAviz/releases)
 
 To run RAviz ,you can be downloaded from the website, as followed:
 
